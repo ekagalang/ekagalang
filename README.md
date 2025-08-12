@@ -21,7 +21,7 @@
 ```yaml
 🏰 PLAYER INFO:
 ┌─────────────────────────┐
-│ 👑 Name: Your Epic Name │
+│ 👑 Name: Galang         │
 │ 🌍 Origin: Jakarta, ID  │
 │ ⚡ Class: Full Stack Mage│
 │ 🎯 Level: 25 (Senior)   │
@@ -67,7 +67,7 @@
 </table>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=neon-palenight&hide_border=true&stroke=FF6B35&ring=FF6B35&fire=FFD23F&currStreakLabel=FF6B35&background=0D1117&sideLabels=FFFFFF" alt="Epic Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekagalang&theme=neon-palenight&hide_border=true&stroke=FF6B35&ring=FF6B35&fire=FFD23F&currStreakLabel=FF6B35&background=0D1117&sideLabels=FFFFFF" alt="Epic Streak Stats" />
 </div>
 
 ## 🏰 Guild Arsenal & Magical Items
@@ -99,18 +99,18 @@
 ## 📊 Battle Analytics & Power Level
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=neon&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff6b35&icon_color=ffd23f&text_color=ffffff&border_radius=15"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=neon&hide_border=true&bg_color=0d1117&title_color=ff6b35&text_color=ffffff&border_radius=15&langs_count=10"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ekagalang&show_icons=true&theme=neon&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff6b35&icon_color=ffd23f&text_color=ffffff&border_radius=15"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekagalang&layout=compact&theme=neon&hide_border=true&bg_color=0d1117&title_color=ff6b35&text_color=ffffff&border_radius=15&langs_count=10"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=redical&hide_border=true&bg_color=0d1117&color=ff6b35&line=ffd23f&point=ffffff&area=true&area_color=ff6b35" alt="Epic Activity Quest Map"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ekagalang&theme=redical&hide_border=true&bg_color=0d1117&color=ff6b35&line=ffd23f&point=ffffff&area=true&area_color=ff6b35" alt="Epic Activity Quest Map"/>
 </div>
 
 ## 🏆 Achievement Gallery & Legendary Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&row=2&column=4&margin-h=15&margin-w=5&no-bg=true" alt="Epic Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ekagalang&theme=darkhub&no-frame=true&row=2&column=4&margin-h=15&margin-w=5&no-bg=true" alt="Epic Trophies"/>
 </div>
 
 <div align="center">
@@ -211,14 +211,14 @@
 ## ⚡ Power Level Progression Chart
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=radical&hide_border=true" alt="Epic Progress Chart"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekagalang&theme=radical&hide_border=true" alt="Epic Progress Chart"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourusername&theme=radical&hide_border=true" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yourusername&theme=radical&hide_border=true" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yourusername&theme=radical&hide_border=true" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yourusername&theme=radical&utcOffset=7&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ekagalang&theme=radical&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ekagalang&theme=radical&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ekagalang&theme=radical&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ekagalang&theme=radical&utcOffset=7&hide_border=true" />
 </div>
 
 ## 🌐 Guild Network & Alliances
@@ -243,15 +243,15 @@
 <br><br>
 
 ### 📊 Visitor Count & Profile Analytics
-<img src="https://komarev.com/ghpvc/?username=yourusername&color=ff6b35&style=for-the-badge&label=Epic+Visitors" alt="Epic Visitor Count"/>
-<img src="https://img.shields.io/github/followers/yourusername?color=ffd23f&style=for-the-badge&label=Fellow+Warriors&logo=github&logoColor=white&labelColor=000000" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=ekagalang&color=ff6b35&style=for-the-badge&label=Epic+Visitors" alt="Epic Visitor Count"/>
+<img src="https://img.shields.io/github/followers/ekagalang?color=ffd23f&style=for-the-badge&label=Fellow+Warriors&logo=github&logoColor=white&labelColor=000000" alt="Followers"/>
 
 </div>
 
 ## 🐍 The Legendary Snake of Commits
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/snake.svg" alt="Legendary Commit Snake"/>
+  <img src="https://raw.githubusercontent.com/ekagalang/ekagalang/output/snake.svg" alt="Legendary Commit Snake"/>
 </div>
 
 ---
