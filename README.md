@@ -1,10 +1,6 @@
 # ⚔️ Welcome to My Digital Realm! ⚔️
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%E2%9A%94%EF%B8%8F+LEGENDARY+DEVELOPER+APPEARS!+%E2%9A%94%EF%B8%8F;%F0%9F%8E%8C+Anime+Enthusiast+%7C+Code+Samurai+%F0%9F%8E%8C;%F0%9F%94%A5+Crafting+Epic+Digital+Adventures!+%F0%9F%94%A5" alt="Epic Title Animation" />
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=GUILD%20MASTER&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 </div>
 
