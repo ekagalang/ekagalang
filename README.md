@@ -77,17 +77,17 @@
 
 ### 🛡️ Defensive Gear (Backend)
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,java,php,go,rust,express,fastapi,spring,laravel&theme=dark" alt="Backend Shield"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,php,go,rust,express,fastapi,laravel&theme=dark" alt="Backend Shield"/>
 </p>
 
 ### 🔮 Magic Crystals (Databases)
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,supabase,sqlite,cassandra&theme=dark" alt="Database Crystals"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,sqlite&theme=dark" alt="Database Crystals"/>
 </p>
 
 ### ⚡ Enchanted Tools (DevOps & Tools)
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,github,gitlab,jenkins,terraform,nginx&theme=dark" alt="DevOps Magic"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,github,gitlab,nginx,apache, linux&theme=dark" alt="DevOps Magic"/>
 </p>
 
 </div>
@@ -244,17 +244,7 @@
 
 </div>
 
-## 🐍 The Legendary Snake of Commits
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ekagalang/ekagalang/output/snake.svg" alt="Legendary Commit Snake"/>
-</div>
-
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
-</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif" width="300" alt="Epic Thank You"/>
