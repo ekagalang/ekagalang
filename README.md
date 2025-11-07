@@ -72,22 +72,22 @@
 
 ### ⚔️ Legendary Weapons (Frontend)
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,angular,svelte,tailwind,sass,bootstrap&theme=dark" alt="Frontend Arsenal"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,tailwind,bootstrap&theme=dark" alt="Frontend Arsenal"/>
 </p>
 
 ### 🛡️ Defensive Gear (Backend)
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,go,rust,express,fastapi,laravel&theme=dark" alt="Backend Shield"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,php,go,express,fastapi,laravel&theme=dark" alt="Backend Shield"/>
 </p>
 
 ### 🔮 Magic Crystals (Databases)
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,sqlite&theme=dark" alt="Database Crystals"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,sqlite&theme=dark" alt="Database Crystals"/>
 </p>
 
 ### ⚡ Enchanted Tools (DevOps & Tools)
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,github,gitlab,nginx,apache, linux&theme=dark" alt="DevOps Magic"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,github,gitlab,nginx,apache,linux&theme=dark" alt="DevOps Magic"/>
 </p>
 
 </div>
